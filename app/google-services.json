@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566274324746",
+    "firebase_url": "https://mapp-newproj.firebaseio.com",
+    "project_id": "mapp-newproj",
+    "storage_bucket": "mapp-newproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566274324746:android:00720996ec9b4f6359a2f3",
+        "android_client_info": {
+          "package_name": "com.studia.mappapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566274324746-2fr6p8a33cjb939gd6e3vo4k32m8gsb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studia.mappapplication",
+            "certificate_hash": "ed64461db5d9b1c25a037f8d4132dc73695fe152"
+          }
+        },
+        {
+          "client_id": "566274324746-in99b4kp0pf3ap1tl19bm4e7pvehamdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4z9ViWAQqzfBrw8ysDl9cmRDF6cAIpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566274324746-in99b4kp0pf3ap1tl19bm4e7pvehamdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
